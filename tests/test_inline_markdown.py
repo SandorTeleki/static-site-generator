@@ -1,4 +1,9 @@
 import unittest
+import sys
+import os
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
+
 from inline_markdown import (
     split_nodes_delimiter,
     split_nodes_image,
