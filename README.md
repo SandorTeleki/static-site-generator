@@ -1,6 +1,7 @@
 # Static Site Generator
 
-A custom-built static site generator written in Python. It converts Markdown content into a fully styled HTML website, complete with support for inline formatting, images, links, code blocks, blockquotes, and lists.
+A custom-built static site generator written in Python. It converts Markdown content into a fully styled HTML website, complete with support for inline formatting, images, links, code blocks, blockquotes, and lists. Based on the Boot.dev course [Build a Static Site Generator in Python
+](https://www.boot.dev/courses/build-static-site-generator-python).
 
 **Live site:** [Demo](https://SandorTeleki.github.io/static-site-generator/)
 
